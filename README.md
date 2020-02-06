@@ -2,6 +2,8 @@
 
 This is a interview scheduling application created with React which allows users to book interviews for a given day of the week, and specify the interviewer and interviewee
 
+!["Screenshot of Interviewer Application"](https://github.com/ke2low/scheduler/blob/master/docs/interviewer-application.png?raw=true)
+
 ## Setup
 
 Install dependencies with `npm install`.
